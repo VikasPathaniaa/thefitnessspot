@@ -1,4 +1,6 @@
+
 function page() {
+
   return (
     <>
       <section className=" bg-black mt-[80px]">
